@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Java Deneylerin Videosu:
+https://www.youtube.com/watch?v=0XMzUAbw_2k
 <!--
 **JalalSy/JalalSy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
